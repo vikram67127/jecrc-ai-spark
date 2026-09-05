@@ -71,6 +71,15 @@ export function Hero() {
               <Linkedin className="size-5" />
             </a>
             <a
+              href={links.instagram}
+              target="_blank"
+              rel="noreferrer"
+              aria-label="Instagram"
+              className="rounded-xl p-3 text-muted-foreground transition-colors hover:bg-secondary hover:text-foreground"
+            >
+              <Instagram className="size-5" />
+            </a>
+            <a
               href={`mailto:${links.email}`}
               aria-label="Email"
               className="rounded-xl p-3 text-muted-foreground transition-colors hover:bg-secondary hover:text-foreground"

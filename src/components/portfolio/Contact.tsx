@@ -14,9 +14,16 @@ export function Contact() {
     {
       icon: Linkedin,
       label: "LinkedIn",
-      value: "linkedin.com / placeholder",
+      value: "linkedin.com/in/vishal-kumar-modi",
       href: links.linkedin,
       note: "Connect with me",
+    },
+    {
+      icon: Instagram,
+      label: "Instagram",
+      value: "@suk.oon22222",
+      href: links.instagram,
+      note: "AI video reels",
     },
     {
       icon: Mail,
