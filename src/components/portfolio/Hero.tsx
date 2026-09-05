@@ -1,4 +1,4 @@
-import { Github, Linkedin, Mail } from "lucide-react";
+import { Github, Linkedin, Mail, Instagram } from "lucide-react";
 import { links, profile } from "@/data/portfolio";
 
 export function Hero() {
@@ -69,6 +69,15 @@ export function Hero() {
               className="rounded-xl p-3 text-muted-foreground transition-colors hover:bg-secondary hover:text-foreground"
             >
               <Linkedin className="size-5" />
+            </a>
+            <a
+              href={links.instagram}
+              target="_blank"
+              rel="noreferrer"
+              aria-label="Instagram"
+              className="rounded-xl p-3 text-muted-foreground transition-colors hover:bg-secondary hover:text-foreground"
+            >
+              <Instagram className="size-5" />
             </a>
             <a
               href={`mailto:${links.email}`}

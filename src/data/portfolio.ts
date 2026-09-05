@@ -9,7 +9,7 @@ export const profile = {
   headline: "Learning AI. Building Ideas. Creating the Future.",
   role: "AI/ML Enthusiast · Builder · Lifelong Learner",
   intro:
-    "I'm Vishal, a first-year B.Tech student exploring AI/ML, Data Science and emerging technologies. I'm currently learning the fundamentals, experimenting with AI tools, participating in hackathons and turning ideas into real projects.",
+    "I'm Vishal Kumar Modi, a first-year B.Tech student exploring AI/ML, Data Science and emerging technologies. I'm currently learning the fundamentals, experimenting with AI tools, making AI video reels on Instagram, participating in hackathons and turning ideas into real projects.",
   college: "JECRC University, Jaipur",
   year: "First-year B.Tech student",
   location: "Jaipur, India",
@@ -18,10 +18,12 @@ export const profile = {
 
 export const links = {
   github: "https://github.com/", // TODO: add your GitHub profile URL
-  linkedin: "https://linkedin.com/in/", // TODO: add your LinkedIn profile URL
+  linkedin:
+    "https://www.linkedin.com/in/vishal-kumar-modi-a35247389?utm_source=share_via&utm_content=profile&utm_medium=member_android",
   email: "your.email@example.com", // TODO: add your email
   resume: "", // TODO: add a link to your resume (leave empty to show "coming soon")
   twitter: "", // optional
+  instagram: "https://instagram.com/suk.oon22222", // AI video reels
 };
 
 export const about = [
