@@ -1,4 +1,4 @@
-import { ArrowUpRight, Github, Linkedin, Mail, FileText } from "lucide-react";
+import { ArrowUpRight, Github, Linkedin, Mail, Instagram, FileText } from "lucide-react";
 import { links, profile } from "@/data/portfolio";
 import { Section } from "./Section";
 
